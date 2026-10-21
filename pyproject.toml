@@ -1,0 +1,10 @@
+[project]
+name = "dns-sec-2-pri-jupyter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "edgegrid-python>=2.0.8",
+    "jupyter>=1.1.1",
+]
