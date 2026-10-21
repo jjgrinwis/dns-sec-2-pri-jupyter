@@ -114,7 +114,7 @@ Example:
 
 ```bash
 export AKAMAI_EDGEGRID_SECTION=default
-export AKAMAI_ACCOUNT_SWITCH_KEY="B-M-1YX7F48:1-8BYUX"
+export AKAMAI_ACCOUNT_SWITCH_KEY="A-B-1YX7F123:1-2ABCD"
 ```
 
 Do not put credentials, access tokens, client secrets, or account switch keys in the notebook or in `README.md`. Do not commit `~/.edgerc`.
